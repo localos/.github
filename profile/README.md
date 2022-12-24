@@ -1,10 +1,11 @@
- ...logo...
+![Logo](images/logo.png)
 
 # About 
 
-
 ### Who are we?
 Not difficult to answer; just a bunch of loosely connected people interested in different topics of computer science. Some of us are cyber-bullshit-bingo security enthusiasts, whereas others are e.g. more into mathematics ... in the end, all are somehow related to computer science and the underlying stuff.
+
+Currently we are a core team of about four/five people. Usually we get some help during crunch time just before a CTF event or other related deadlines.
 
 ### What will you find here?
 Almost nothing, besides some research related stuff and maybe some experiences in terms of organizing and setting up capture the flag events.
