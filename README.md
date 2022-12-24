@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/localos/.github/blob/main/images/logo_dark.png?raw=true">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/localos/.github/blob/main/images/logo_light.png?raw=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/localos/.github/blob/main/images/logo_light.png?raw=true">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/localos/.github/blob/main/images/logo_dark.png?raw=true">
   <img alt="localos logo" src="https://github.com/localos/.github/blob/main/images/logo_dark.png?raw=true">
 </picture>
 
