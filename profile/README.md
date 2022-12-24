@@ -4,7 +4,6 @@
   <img alt="localos logo" src="https://github.com/localos/.github/blob/main/images/logo_dark.png?raw=true">
 </picture>
 
-
 # About 
 
 ### Who are we?
