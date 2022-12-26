@@ -9,7 +9,7 @@
 ### Who are we?
 Not difficult to answer; just a bunch of loosely connected people interested in different topics of computer science. Some of us are cyber-bullshit-bingo security enthusiasts, whereas others are e.g. more into mathematics ... in the end, all are somehow related to computer science and the underlying stuff.
 
-Team localos exists since around 2014, consisting of about four members, who are still forming the core:
+Team localos exists since around 2014, starting with about four members, who are still forming the core:
 
 - [@solacol](https://github.com/solacol)
 - [@yurgiur](https://github.com/yurgiur)
