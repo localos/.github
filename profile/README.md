@@ -11,10 +11,10 @@ Not difficult to answer; just a bunch of loosely connected people interested in 
 
 Team localos exists since around 2014, consisting of about four members, who are still forming the core:
 
-- @solacol
-- @yurgiur
-- @laoclos
-- @fiwufim
+- [@solacol](https://github.com/solacol)
+- [@yurgiur](https://github.com/yurgiur)
+- [@laoclos](https://github.com/laoclos)
+- [@fiwufim](https://github.com/fiwufim)
 
 Usually we get some help during crunch time just before a CTF event or other related deadlines.
 
