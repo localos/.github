@@ -25,6 +25,7 @@ Most noteworthy helpers over the years:
 - [@scoolal](https://github.com/scoolal)
 - [@chrisbsd](https://github.com/chrisbsd/)
 - [@lasolco](https://github.com/lasolco)
+- [@afiaux](https://github.com/afiaux)
 
 ### What will you find here?
 Almost nothing, besides some research related stuff and maybe some experiences in terms of organizing and setting up capture the flag events.
