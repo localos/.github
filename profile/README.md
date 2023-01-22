@@ -9,14 +9,16 @@
 ### Who are we?
 Not difficult to answer; just a bunch of loosely connected people interested in different topics of computer science. Some of us are cyber-bullshit-bingo security enthusiasts, whereas others are e.g. more into mathematics ... in the end, all are somehow related to computer science and the underlying stuff.
 
-Team localos exists since around 2014, starting with about four members, who are still forming the core:
+Team `localos` was founded around 2014 by [@solacol](https://github.com/solacol) to provide some kind of platform for mainly students interested in learning IT security.
+
+We started with about four members, who are still forming the core:
 
 - [@solacol](https://github.com/solacol)
 - [@yurgiur](https://github.com/yurgiur)
 - [@laoclos](https://github.com/laoclos)
 - [@fiwufim](https://github.com/fiwufim)
 
-Usually we get some help during crunch time just before a CTF event or other related deadlines.
+Of course, we usually get some help during crunch time just before a CTF event or other related deadlines.
 
 ### What will you find here?
 Almost nothing, besides some research related stuff and maybe some experiences in terms of organizing and setting up capture the flag events.
@@ -31,6 +33,14 @@ Apt quotation:
 > 
 
 # Capture the Flag
+Usually we are focusing on building and organizing CTF events, so you might find some facts and challenges here.
+
+### Marginalia
+Some notes about stuff nobody is interested in, but who cares ;)
+
+... stay tuned ...
+
+### Challenges
 Challenges build for or solved of certain CTFs.
 
 ... stay tuned ...
