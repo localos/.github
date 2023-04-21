@@ -32,7 +32,7 @@ Almost nothing, besides some research related stuff and maybe some experiences i
 
 ### It is all about ~~cyber~~, right?
 Last but not least, why are we using the bullshit prefix cyber in our CTFs instead of maybe commonly known formats like `flag{...fill...some...bullsh_t...here}`? Cause we can ... and, we think this term is characterized by the media and people who think they are the greatest. Ask ten different people for a definition and you'll get ten different ones.
-So this is our statement what we think of this term without being abusive
+So this is our statement what we think of this term without being abusive.
 
 Apt quotation:
 > 
