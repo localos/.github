@@ -47,10 +47,8 @@ Some notes about stuff nobody is interested in, but who cares ;)
 
 ... stay tuned ...
 
-### Challenges
-Challenges build for or solved of certain CTFs.
-
-... stay tuned ...
+### Eventinfo and Challenges
+[Event information/stats and challenges build for or solved of certain CTFs.](content)
 
 # Copyright/License
 All copyright etc. of stuff found here (in this repository) belongs to the person(s) who created the corresponding content, e.g. logos, challenges, design. If it can not be broken down to a single person, copyright belongs Team localos.
