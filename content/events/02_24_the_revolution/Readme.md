@@ -1,4 +1,4 @@
-# CTF 20017 - 24 - The Revolution
+# CTF 2017 - 24 - The Revolution
 
 ![logo](img/logo.png)
 
