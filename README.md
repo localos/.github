@@ -51,6 +51,6 @@ Some notes about stuff nobody is interested in, but who cares ;)
 [Event information/stats](content/events) and [challenges build for](content/events) or [solved of](content/writeups) certain CTFs.
 
 # Copyright/License
-All copyright etc. of stuff found here (in this repository) belongs to the person(s) who created the corresponding content, e.g. logos, challenges, design. If it can not be broken down to a single person, copyright belongs Team localos.
+All copyright etc. of stuff found here (in this repository) belongs to the person(s) who created the corresponding content, e.g. logos, challenges, design. If it can not be broken down to a single person, copyright belongs to Team localos.
 
 As long as you keep this notice, you can do whatever you want with **_challenges_** posted in this repository. If you want to give something in return, keep on playing CTFs and always be nice to creators/organizers of CTF events. And of course be part of our events and drink a beer with us.
