@@ -1,4 +1,4 @@
-# ...
+# CTF 2021 - Game of Trons
 
 ![logo](img/logo.png)
 

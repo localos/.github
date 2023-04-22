@@ -1,4 +1,4 @@
-# ...
+# CTF 2020 - Cube Apocalypse
 
 ![logo](img/logo.png)
 

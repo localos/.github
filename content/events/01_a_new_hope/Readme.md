@@ -1,4 +1,4 @@
-# ...
+# CTF 2016 - A New Hope
 
 ![logo](img/logo.png)
 

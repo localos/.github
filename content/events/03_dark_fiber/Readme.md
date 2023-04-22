@@ -1,4 +1,4 @@
-# ...
+# CTF 2018 - Dark Fiber
 
 ![logo](img/logo.png)
 

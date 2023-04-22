@@ -1,4 +1,4 @@
-# CTF2015 - The Beginning
+# CTF 2015 - The Beginning
 
 ![logo](img/logo.png)
 

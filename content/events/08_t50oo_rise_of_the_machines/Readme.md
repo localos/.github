@@ -1,4 +1,4 @@
-# ...
+# CTF 2023 - T50OO - Rise of the Machines
 
 ![logo](img/logo.png)
 
