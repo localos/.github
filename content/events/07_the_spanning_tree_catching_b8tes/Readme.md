@@ -1,4 +1,4 @@
-# CTF 2022 - Spanning Tree - Catching B8tes
+# CTF 2022 - The Spanning Tree - Catching B8tes
 
 ![logo](img/logo.png)
 
