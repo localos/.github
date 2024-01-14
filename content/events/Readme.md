@@ -11,7 +11,7 @@ All events consisted of a qualifying ...
 
 - usually 18 to 24 hours
 - onsite/offline
-- sometimes hybrid (offline and online), so that teams not qualified were able to play, too
+- sometimes hybrid (offline and online), so that teams (not) qualified were able to play, too
 - onsite limited to 24 to 30 teams (we've changed venue several times to have more space for teams), max. four persons each
 - drinks and food for free
 
