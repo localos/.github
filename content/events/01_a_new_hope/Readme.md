@@ -4,7 +4,7 @@
 
 ## Info
 - **Date (main):** 14.10.2016 to 15.10.2016 (8h)
-- **Type:** Jeopardy (three tracks, onsite)
+- **Type:** "Jeopardy" (three tracks, onsite, complete set of networks for each team)
 - **Qualified teams:** 14
 - **Challenges released:** 20
 
