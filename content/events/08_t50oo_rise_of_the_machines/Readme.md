@@ -3,10 +3,10 @@
 ![logo](img/logo.png)
 
 ## Info
-- **Date (main):**  (18h)
+- **Date (main):**  24.11.2023 to 25.11.2023 (18h)
 - **Type:** Jeopardy (onsite)
-- **Qualified teams:** ...
-- **Challenges released:** ...
+- **Qualified teams:** 26
+- **Challenges released:** 37
 
 ## Result
 ... stay tuned stats will follow ...
