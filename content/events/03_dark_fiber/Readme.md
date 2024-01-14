@@ -2,10 +2,12 @@
 
 ![logo](img/logo.png)
 
-... stay tuned stats will follow...
+## Info
+- **Date:** 23.11.2018 to 24.11.2018 (18h)
+- **Type:** Jeopardy and Attack Defence (onsite)
+- **Qualified Teams:** 24
+- **Challenges released (Jeopardy):** 42
+- **Scenarios (Attack Defence):** 3
 
-## Theme
-... stay tuned ...
-
-## Challenges
-... stay tuned ...
+## Result
+![top10](img/result.png)

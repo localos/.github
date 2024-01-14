@@ -2,10 +2,11 @@
 
 ![logo](img/logo.png)
 
-... stay tuned stats will follow...
+## Info
+- **Date:** 22.11.2019 to 23.11.2019 (18h)
+- **Type:** Jeopardy (onsite)
+- **Qualified Teams:** 29
+- **Challenges released (Jeopardy):** 49
 
-## Theme
-... stay tuned ...
-
-## Challenges
-... stay tuned ...
+## Result
+![top10](img/result.png)

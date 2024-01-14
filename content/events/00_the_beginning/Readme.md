@@ -2,10 +2,19 @@
 
 ![logo](img/logo.png)
 
-... stay tuned stats will follow...
+## Info
+- **Date:** 23.10.2015 to 24.10.2015 (9h)
+- **Type:** Jeopardy (two tracks, onsite)
+- **Qualified Teams:** 11
+- **Challenges released:** 35
 
-## Theme
-... stay tuned ...
+## Result
+|Track|Position|Teamname|
+|---|---|---|
+|Beginner|1|FrischfleischX|
+||2|RohoelanDeltaTee|
+||3|404DieFetteGrilltNiX|
+|Advanced|1|ReX|
+||2|λll3sFя3ss3я|
+||3|MausX|
 
-## Challenges
-... stay tuned ...
