@@ -5,7 +5,7 @@
 ## Info
 - **Date (main):** 23.11.2018 to 24.11.2018 (18h)
 - **Type:** Jeopardy and Attack Defence (onsite)
-- **Qualified Teams:** 24
+- **Qualified teams:** 24
 - **Challenges released (Jeopardy):** 42
 - **Scenarios (Attack Defence):** 3
 

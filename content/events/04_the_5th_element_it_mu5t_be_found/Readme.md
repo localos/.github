@@ -5,7 +5,7 @@
 ## Info
 - **Date (main):** 22.11.2019 to 23.11.2019 (18h)
 - **Type:** Jeopardy (onsite)
-- **Qualified Teams:** 29
+- **Qualified teams:** 29
 - **Challenges released:** 49
 
 ## Result
