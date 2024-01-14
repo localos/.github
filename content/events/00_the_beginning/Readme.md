@@ -3,7 +3,7 @@
 ![logo](img/logo.png)
 
 ## Info
-- **Date:** 23.10.2015 to 24.10.2015 (9h)
+- **Date (main):** 23.10.2015 to 24.10.2015 (9h)
 - **Type:** Jeopardy (two tracks, onsite)
 - **Qualified Teams:** 11
 - **Challenges released:** 35

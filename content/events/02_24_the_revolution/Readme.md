@@ -3,7 +3,7 @@
 ![logo](img/logo.png)
 
 ## Info
-- **Date:** 17.11.2017 to 18.11.2017 (24h)
+- **Date (main):** 17.11.2017 to 18.11.2017 (24h)
 - **Type:** Jeopardy (two tracks, onsite)
 - **Qualified Teams:** 18
 - **Challenges released:** 50
