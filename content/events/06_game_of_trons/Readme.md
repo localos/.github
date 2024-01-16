@@ -9,7 +9,8 @@
 - **Challenges released:** 48
 
 ## Result (onsite)
-... stay tuned stats will follow ...
+![top10onsite](img/resultonsite.png)
 
 ## Result (remote)
-... stay tuned stats will follow ...
+![top10online](img/resultonline.png)
+
