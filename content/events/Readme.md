@@ -33,7 +33,7 @@ Everytime some discussions are taking place in terms of prices. There is a reaso
 
 It is all about being nice to each other, have a good time, drink some beer and learn new stuff.
 
-One more note in terms why the event is not listed at ctftime: Simply because our focus is not to get as much as possible participating teams. Instead we focus on our loyal community of returning teams. Nevertheless, the event is still open for everyone, we just do not announce it on ctftime.
+One more note in terms of why the event is not listed at ctftime: Simply because our focus is not to get as much as possible participating teams. Instead we focus on our loyal community of returning teams. Nevertheless, the event is still open for everyone, we just do not announce it on ctftime.
 
 # Side Note
 >
