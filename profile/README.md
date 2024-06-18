@@ -48,7 +48,7 @@ Some notes about stuff nobody is interested in, but who cares ;)
 ... stay tuned ...
 
 ### Eventinfo and Challenges
-[Event information/stats](https://github.com/localos/.github/tree/main/content/events) and [challenges build for](content/events) or [solved of](content/writeups) certain CTFs.
+[Event information/stats](https://github.com/localos/.github/tree/main/content/events) and [challenges build for](https://github.com/localos/.github/tree/main/content/events) or [solved of](https://github.com/localos/.github/tree/main/content/writeups) certain CTFs.
 
 # Copyright/License
 All copyright etc. of stuff found here (in this repository) belongs to the person(s) who created the corresponding content, e.g. logos, challenges, design. If it can not be broken down to a single person, copyright belongs to Team localos.
