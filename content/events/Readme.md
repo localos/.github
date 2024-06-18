@@ -27,6 +27,7 @@ All events consisted of a qualifying ...
 - [CTF 2021 - Game of Trons](06_game_of_trons/Readme.md)
 - [CTF 2022 - The Spanning Tree - Catching B8tes](07_the_spanning_tree_catching_b8tes/Readme.md)
 - [CTF 2023 - T50OO - Rise of the Machines](08_t50oo_rise_of_the_machines/Readme.md)
+- [CTF 2024 - Predator - Threat Hunting](08_predator_threat_hunting/Readme.md)
 
 # Notes
 Everytime some discussions are taking place in terms of prices. There is a reason why we do not	like high value prices, since it sucks and encourage people to fallback to neandertal behaviors, e.g. selfishness, ignorance, arrogance, and being unfair.
