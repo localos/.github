@@ -11,18 +11,18 @@ Not difficult to answer; just a bunch of loosely connected people interested in 
 
 Team `localos` was founded around 2014 by [@solacol](https://github.com/solacol) to provide some kind of platform for mainly students interested in learning IT security.
 
-We started with about four members, who are still forming the core:
+We started with about four members, who are still forming the core, and have been reinforced by one more:
 
 - [@solacol](https://github.com/solacol)
 - [@yurgiur](https://github.com/yurgiur)
 - [@laoclos](https://github.com/laoclos)
 - [@fiwufim](https://github.com/fiwufim)
+- [@scoolal](https://github.com/scoolal) (since 2019)
 
 Of course, we usually get some help during crunch time just before a CTF event or other related deadlines.
 
 Most noteworthy helpers over the years:
 
-- [@scoolal](https://github.com/scoolal)
 - [@chrisbsd](https://github.com/chrisbsd/)
 - [@lasolco](https://github.com/lasolco)
 - [@afiaux](https://github.com/afiaux)
