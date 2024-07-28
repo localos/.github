@@ -1,6 +1,6 @@
 # CTF 2024 - Predator - Threat Hunting
 
-tba
+![logo](img/logo.png)
 
 ## Info
 - **Date (main):** 22.11.2024 to 23.11.2024 (18h)
