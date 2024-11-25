@@ -5,8 +5,8 @@
 ## Info
 - **Date (main):** 22.11.2024 to 23.11.2024 (18h)
 - **Type:** Jeopardy (onsite)
-- **Qualified teams:** tba
-- **Challenges released:** tba
+- **Qualified teams:** 24
+- **Challenges released:** 44
 
 ## Result
-tba
+![top10](img/result.png)
