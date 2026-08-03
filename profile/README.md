@@ -7,7 +7,7 @@
 # About 
 
 ### Who are we?
-Not difficult to answer; just a bunch of loosely connected people interested in different topics of computer science. Some of us are cyber-bullshit-bingo security enthusiasts, whereas others are e.g. more into mathematics ... in the end, all are somehow related to computer science and the underlying stuff.
+Not difficult to answer; just a bunch of loosely connected people interested in different topics of computer science. Some of us are cyber-bullshit-bingo security enthusiasts, whereas others are, e.g., more into mathematics ... in the end, all are somehow related to computer science and the underlying stuff.
 
 Team `localos` was founded around 2014 by [@solacol](https://github.com/solacol) to provide some kind of platform for mainly students interested in learning IT security.
 
@@ -43,6 +43,6 @@ Apt quotation:
 Usually we are focusing on building and organizing CTF events, so you might find some facts and challenges here.
 
 # Copyright/License
-All copyright etc. of stuff found here (in this repository) belongs to the person(s) who created the corresponding content, e.g. logos, challenges, design. If it can not be broken down to a single person, copyright belongs to Team localos.
+All copyright etc. of stuff found here (in this repository) belongs to the person(s) who created the corresponding content, e.g., logos, challenges, design. If it can not be broken down to a single person, copyright belongs to Team localos.
 
 As long as you keep this notice, you can do whatever you want with **_challenges_** posted in this repository. If you want to give something in return, keep on playing CTFs and always be nice to creators/organizers of CTF events. And of course be part of our events and drink a beer with us.
